@@ -5,6 +5,8 @@ class Node{
 	Node(char key){
 		this.key=key;
 	}
+	
+	
 }
 
 class TreeTraveral{
